@@ -1,0 +1,4 @@
+Acme-CPANModules-TemporaryChdir-*
+.build
+*~
+nytprof*
